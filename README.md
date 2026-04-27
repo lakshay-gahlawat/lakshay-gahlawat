@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Lakshay 👋
 
-<!--
-**lakshay-gahlawat/lakshay-gahlawat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Backend developer in progress — learning by building real projects.
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=python&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I'm Building
+- 💰 **Expense Tracker API** — REST API with JWT auth, accounts, transactions, analytics
+- 🔨 More projects coming soon...
+
+## 📚 Currently Learning
+- Backend architecture with FastAPI
+- Database design with SQLAlchemy
+- Writing clean, tested code with pytest
+- Deployment & DevOps basics
+
+## 📊 GitHub Stats
+![Lakshay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lakshay-gahlawat&show_icons=true&theme=tokyonight)
+
+## 📫 Reach Me
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lakshaygahlawat65@gmail.com)
