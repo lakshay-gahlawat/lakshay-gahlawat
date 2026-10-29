@@ -11,7 +11,9 @@
 
 ## 🚀 What I'm Building
 - 📋 **Application Tracker API** - A production-ready REST API for tracking job applications built with FastAPI, PostgreSQL, Redis and Celery.
--     **Client Flow** - A B2B lead & client management SaaS — portfolio/case-study project demonstrating a complete, tested, production-shaped web application: FastAPI + PostgreSQL backend, React frontend, async background processing, and Stripe billing.
+- 📎 **ClientFlow** - A B2B lead & client management SaaS — portfolio/case-study project demonstrating a complete, tested, production-shaped web application: FastAPI, PostgreSQL, backend, React frontend, async background processing, and Stripe billing.
+- ⌛ **FastAPI Async AI Worker** - A production style asynchronous AI Pipeline. FastAPI accepts a job and returns immediately; an ARQ worker picks the job up from REDIS, calls and LLM and the client polls for a structured JSON result.
+- 🧩 **Integration Hub** - A full stack API integration platform - OAuth, webhooks, background Async and audit logging. Built a way a real integration between two systems has to be built.
 - 💰 **Expense Tracker API** — REST API with JWT auth, accounts, transactions, analytics
 - 🔨 More projects coming soon...
 
