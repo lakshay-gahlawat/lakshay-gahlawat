@@ -22,7 +22,7 @@ I build backends the way production demands: authenticated, tested, observable, 
 
 ## 🚀 What I've Built
 
-Backend projects that are deployed, with live API docs you can open right now.
+Four backend projects, built end to end and tested.
 
 <table>
 <tr>
@@ -84,28 +84,22 @@ The API accepts a job and returns `202` immediately. An ARQ worker calls the LLM
 </td>
 <td width="50%" valign="top">
 
-### 💰 [Expense Tracker API](https://github.com/lakshay-gahlawat/expense-tracker-api)
-**Personal finance REST API**
+### 📎 ClientFlow
+**B2B lead and client management SaaS**
 
-Multi-account income and expense tracking with search, filtering, and analytics.
+A portfolio and case-study project built to show a complete, tested, production-shaped web application, from backend to frontend to billing.
 
-- JWT auth with password strength validation
-- Search, filter, sort, and pagination
-- Summaries, category breakdowns, monthly trends
-- 37 pytest tests
-- Deployed on Render
+- FastAPI backend with PostgreSQL
+- React frontend
+- Async background processing
+- Stripe billing
+- Fully tested, production-shaped architecture
 
-`FastAPI` `SQLAlchemy` `SQLite` `JWT` `Pytest`
-
-[⚙️ Live API Docs](https://expense-tracker-api-vq60.onrender.com/docs)
+`FastAPI` `PostgreSQL` `React` `Stripe`
 
 </td>
 </tr>
 </table>
-
-📎 **ClientFlow** — A B2B lead and client management SaaS. A portfolio/case-study project showing a complete, tested, production-shaped web app: FastAPI, PostgreSQL, React frontend, async background processing, and Stripe billing.
-
-🔨 More projects coming soon...
 
 > ⏱️ Demos run on free-tier hosting, so the first request after a quiet period can take up to a minute while the service wakes up.
 
@@ -138,12 +132,13 @@ Most bugs aren't syntax errors. They're the case nobody tested: two requests at 
 |---|---|
 | **Languages** | Python, TypeScript |
 | **Backend** | FastAPI, SQLAlchemy 2.0, Pydantic, Alembic |
-| **Data** | PostgreSQL, Redis, SQLite |
+| **Data** | PostgreSQL, Redis |
 | **Async & Queues** | Celery, ARQ, APScheduler |
 | **Security** | JWT, OAuth 2.0, bcrypt, Fernet encryption, HMAC signatures, rate limiting |
 | **Testing & Quality** | Pytest, respx, Ruff, GitHub Actions CI |
 | **Infra** | Docker, Docker Compose, Render |
 | **Frontend** | React, Tailwind CSS, Vite |
+| **Payments** | Stripe |
 
 ---
 
@@ -159,8 +154,9 @@ Most bugs aren't syntax errors. They're the case nobody tested: two requests at 
 
 <div align="center">
 
-![Lakshay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lakshay-gahlawat&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lakshay-gahlawat&layout=compact&theme=tokyonight&hide_border=true)
+[![Followers](https://img.shields.io/github/followers/lakshay-gahlawat?style=for-the-badge&logo=github&logoColor=white&label=Followers&color=181717)](https://github.com/lakshay-gahlawat?tab=followers)
+[![Repositories](https://img.shields.io/badge/Repositories-View%20All-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lakshay-gahlawat?tab=repositories)
+[![Profile Views](https://komarev.com/ghpvc/?username=lakshay-gahlawat&label=Profile%20Views&style=for-the-badge&color=009688)](https://github.com/lakshay-gahlawat)
 
 </div>
 
@@ -173,6 +169,8 @@ I'm open to backend developer roles, internships, and freelance work.
 <div align="center">
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lakshaygahlawat65@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lakshay-gahlawat/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-009688?style=for-the-badge&logo=vercel&logoColor=white)](https://lakshay-developer-portfolio.vercel.app/)
 
 *If something in my repos is broken, open an issue. I like finding bugs, including my own.* 🐞
 
