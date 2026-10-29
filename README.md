@@ -10,6 +10,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ## 🚀 What I'm Building
+- 📋 **Application Tracker API** - A production-ready REST API for tracking job applications built with FastAPI, PostgreSQL, Redis and Celery.
 - 💰 **Expense Tracker API** — REST API with JWT auth, accounts, transactions, analytics
 - 🔨 More projects coming soon...
 
