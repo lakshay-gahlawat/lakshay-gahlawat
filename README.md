@@ -84,7 +84,7 @@ The API accepts a job and returns `202` immediately. An ARQ worker calls the LLM
 </td>
 <td width="50%" valign="top">
 
-### 📎 [ClientFlow]([https://github.com/lakshay-gahlawat/fastapi-ai-worker-backend](https://github.com/lakshay-gahlawat/clientflow))
+### 📎 [ClientFlow](https://github.com/lakshay-gahlawat/clientflow)
 **B2B lead and client management SaaS**
 
 A portfolio and case-study project built to show a complete, tested, production-shaped web application, from backend to frontend to billing.
@@ -97,7 +97,7 @@ A portfolio and case-study project built to show a complete, tested, production-
 
 `FastAPI` `PostgreSQL` `React` `Stripe`
 
-[🚀 Live Demo]([https://fastapi-ai-worker-9tx1.onrender.com](https://clientflow-plum.vercel.app/login)) · [⚙️ API Docs]([https://fastapi-ai-worker-9tx1.onrender.com/docs](https://clientflow-xtst.onrender.com/docs))
+[🚀 Live Demo](https://clientflow-plum.vercel.app) · [⚙️ API Docs](https://clientflow-xtst.onrender.com/docs)
 
 </td>
 </tr>
